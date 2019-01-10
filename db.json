@@ -2,10 +2,10 @@
   "id": [
     { "id": 1, "title": "Akhil" }
   ],
-  "comments": [
-    { "id": 1, "body": "QA ", "postId": 1 }
+  "Profile": [
+    { "body": "QA " }
   ],
-  "profile": {
+  "Task": {
     "name": "RESTASSURED"
   }
 }
