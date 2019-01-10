@@ -1,15 +1,11 @@
 {
-	"markers": [{
-			"name": "Akhil Reddy",
-			"position": [25.1212, 55.1535]
-		},
-		{
-			"name": "Vixxo",
-			"location": [25.2084, 55.2719]
-		},
-		{
-			"name": "cincinnati",
-			"location": [25.2285, 55.3273]
-		}
-	]
+  "id": [
+    { "id": 1, "title": "Akhil" }
+  ],
+  "comments": [
+    { "id": 1, "body": "QA ", "postId": 1 }
+  ],
+  "profile": {
+    "name": "RESTASSURED"
+  }
 }
